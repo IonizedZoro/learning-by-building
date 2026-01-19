@@ -1,4 +1,4 @@
-# 🚀 Learning by Building
+# Learning by Building
 
 This repository documents my journey of learning programming through **hands-on projects**, experiments, and problem-solving.
 
